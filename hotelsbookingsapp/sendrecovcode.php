@@ -36,7 +36,7 @@ try {
 
   $mail->Port       = 465;                    // set the SMTP port for the GMAIL server
   $mail->Username   = "hotelsbookingsteam@yandex.com"; // SMTP account username
-  $mail->Password   = "electroman@02";        // SMTP account password
+  $mail->Password   = "yourpass";        // SMTP account password
   
   $mail->From = "hotelsbookingsteam@yandex.com";
   $mail->Username = "hotelsbookingsteam@yandex.com";
